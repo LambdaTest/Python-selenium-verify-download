@@ -5,13 +5,21 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
-If you want to verify file download in automation test in Python-selenium on TestMu AI (Formerly LambdaTest), you can follow the below steps.
+## Getting Started
+
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
+
+With TestMu AI (Formerly LambdaTest), you can run Python Selenium Verify Download Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
-# Steps:
+### Prerequisites
 
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
+# Steps:
 
 ## Step 1: Add test case
 
